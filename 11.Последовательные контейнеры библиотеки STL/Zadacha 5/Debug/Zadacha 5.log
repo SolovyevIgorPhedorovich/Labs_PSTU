@@ -1,0 +1,13 @@
+﻿  zadacha5_main.cpp
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\zadacha5_main.cpp(8,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(39,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :  выполняется компиляция ссылки на экземпляр шаблон функции "std::queue<T,std::deque<_Ty,std::allocator<_Ty>>> copy_deque_to_queue<_Ty>(std::deque<_Ty,std::allocator<_Ty>>)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :         with
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :         [
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :             T=Time,
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :             _Ty=Time
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(80): message :         ]
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\Vector.h(72): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\zadacha5_main.cpp(10): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 5\zadacha5_main.cpp(9): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  Zadacha 5.vcxproj -> C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Debug\Zadacha 5.exe

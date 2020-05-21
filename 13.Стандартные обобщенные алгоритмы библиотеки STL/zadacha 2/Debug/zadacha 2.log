@@ -1,0 +1,5 @@
+﻿  zadacha2_main.cpp
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №13\zadacha 2\zadacha2_main.cpp(28,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №13\zadacha 2\zadacha2_main.cpp(61,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №13\zadacha 2\zadacha2_main.cpp(73,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  zadacha 2.vcxproj -> C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №13\Debug\zadacha 2.exe

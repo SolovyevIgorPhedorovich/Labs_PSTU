@@ -1,0 +1,6 @@
+﻿  Time.cpp
+  zadacha4_main.cpp
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha4\zadacha4_main.cpp(37,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha4\zadacha4_main.cpp(120,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Zadacha4.vcxproj -> C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Debug\Zadacha4.exe

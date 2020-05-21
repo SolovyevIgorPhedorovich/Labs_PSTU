@@ -1,0 +1,27 @@
+﻿  zadacha3_main.cpp
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(8,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(44,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(43): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(10): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(9): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(54,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(51): message :  во время компиляции функции-члена класс шаблон "T Vector<T>::max(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(51): message :         with
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(51): message :         [
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(51): message :             T=Time
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(51): message :         ]
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(11): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::max(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(11): message :         with
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(11): message :         [
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(11): message :             T=Time
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(11): message :         ]
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(70,10): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(69): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::del_deque(int)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(17): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::del_deque(int)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(81,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(79): message :  во время компиляции функции-члена класс шаблон "int Vector<Time>::srednee(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(20): message :  выполняется компиляция ссылки на экземпляр шаблон функции "int Vector<Time>::srednee(void)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(89,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\Vector.h(88): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::add_srednee(int)"
+C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Zadacha 3\zadacha3_main.cpp(21): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::add_srednee(int)"
+  Zadacha 3.vcxproj -> C:\Users\Acer\Desktop\Учеба\Контрольные работы\Информатика 2 семестр\Лабораторная работа №11\Debug\Zadacha 3.exe

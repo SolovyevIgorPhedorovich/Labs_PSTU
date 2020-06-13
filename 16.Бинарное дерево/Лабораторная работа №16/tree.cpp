@@ -564,7 +564,7 @@ void Buttom_1(int window_width,int window_height,int shift, int quad_width, int 
 		if (t_tree == false) {
 			double dt;
 			tree->deleteNULL(tree);
-			cout << "Ââåäèòå çíà÷åíèå:"; cin >> dt;
+			cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥:"; cin >> dt;
 			tree->insertNode(tree, dt);
 			cout << "Add complet" << endl;
 			tree->replaceNULLforEmpty(tree, getHeight(tree),0);
@@ -575,7 +575,7 @@ void Buttom_1(int window_width,int window_height,int shift, int quad_width, int 
 		}
 		if (t_tree == true) {
 			double dt;
-			cout << "Ââåäèòå çíà÷åíèå:"; cin >> dt;
+			cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥:"; cin >> dt;
 			tree->deleteNULL(tree);
 			tree->insertNodeSearchTree(tree, dt);
 			cout << "Add complet" << endl;
@@ -597,7 +597,8 @@ void Buttom_2(int window_width, int window_height, int shift, int quad_width, in
 	if (xOrigin >= qued_x - quad_width / 2 && xOrigin <= qued_x + quad_width / 2 && window_height - yOriginal >= qued_y - quad_height && window_height - yOriginal <= qued_y + quad_height / 2) {
 		if (t_tree == false) {
 			double dt;
-			cout << "Ââåäèòå çíà÷åíèå:"; cin >> dt;
+			cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥:"; cin >> dt;
+			tree->deleteNULL(tree);
 			tree->delNode(tree, dt);
 			tree->replaceNULLforEmpty(tree, getHeight(tree),0);
 			el.clear();
@@ -610,7 +611,7 @@ void Buttom_2(int window_width, int window_height, int shift, int quad_width, in
 		}
 		if (t_tree == true) {
 			double dt;
-			cout << "Ââåäèòå çíà÷åíèå:"; cin >> dt;
+			cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥:"; cin >> dt;
 			tree->deleteNULL(tree);
 			tree->delSearchNode(tree, dt);
 			tree->replaceNULLforEmpty(tree, getHeight(tree),0);
@@ -728,7 +729,7 @@ void Buttom_5(int window_width, int window_height, int shift, int quad_width, in
 	if (xOrigin >= qued_x - quad_width / 2 && xOrigin <= qued_x + quad_width / 2 && window_height-yOriginal >= qued_y - quad_height && window_height-yOriginal <= qued_y + quad_height / 2){
 		if (b_find == false) {
 			b_find = true;
-			cout << "Ââåäèòå çíà÷åíèå ýëåìåíòîâ:"; cin >> find_tree;
+			cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥ Ã½Ã«Ã¥Ã¬Ã¥Ã­Ã²Ã®Ã¢:"; cin >> find_tree;
 			xOrigin = -1;
 			yOriginal = -1;
 		}
